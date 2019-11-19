@@ -10,7 +10,7 @@ import java.io.IOException;
 public class Driver {
 
 
-    public static final String GOOGLE_KEY = "AIzaSyBiMQ4b5qAyTxj4LEN62uYy9so68K6j5NQ";
+    public static final String GOOGLE_KEY = "";
 
     public static void main(String[] args){
 
