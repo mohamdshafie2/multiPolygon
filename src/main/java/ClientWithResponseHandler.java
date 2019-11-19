@@ -11,7 +11,7 @@ import org.apache.http.util.EntityUtils;
 
 public class ClientWithResponseHandler {
 
-    private static final String YOUR_API_KEY = "AIzaSyBugJ2PebdyCZvpsiJsBTa8HWqNPL0afWs";
+    private static final String YOUR_API_KEY = "";
     private static String googleUrl = "https://maps.googleapis.com/maps/api/staticmap?" +
             "center=40.714728,-73.998672&zoom=12&size=400x400&maptype=terrain&key=" + YOUR_API_KEY;
 
